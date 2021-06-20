@@ -1,6 +1,6 @@
 import React from "react";
 import "./city-detail.css";
-import { useHistory, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 
 const CityDetail = () => {
   const { state } = useLocation();
@@ -15,19 +15,19 @@ const CityDetail = () => {
             <span>Bölge:</span> {state.region} Bölgesi
           </p>
           <p>
-            <span>Enlem:</span> {state.latitude}{" "}
+            <span>Enlem:</span> {state.latitude}
           </p>
           <p>
-            <span>Boylam:</span> {state.longitude}{" "}
+            <span>Boylam:</span> {state.longitude}
           </p>
           <p>
-            <span>Nüfus:</span> {state.population}{" "}
+            <span>Nüfus:</span> {state.population}
           </p>
           <p>
-            <span>Yüzölçümü:</span> {state.area} km²{" "}
+            <span>Yüzölçümü:</span> {state.area} km²
           </p>
           <p>
-            <span>Plaka kodu:</span> {state.plateCode}{" "}
+            <span>Plaka kodu:</span> {state.plateCode}
           </p>
         </div>
       </div>
