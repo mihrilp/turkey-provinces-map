@@ -21,6 +21,7 @@ function Home() {
             population: city.population,
             area: city.area,
             plateCode: city.id,
+            url: `https://tr.wikipedia.org/wiki/${city.name}`,
           },
         });
       }
@@ -28,7 +29,7 @@ function Home() {
   };
 
   return (
-    <div className="Home">
+    <div className="home">
       <header className="header">
         <h2>TÜRKİYE İLLER HARİTASI</h2>
       </header>

@@ -1,25 +1,14 @@
 .cityDetail{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     background-color: #caf0f8;
     height: 100vh;
 }
 
-.card{
-    width: 500px;
-    height: 400px;
-    background-color: #227c9d;
-    padding: 20px;
-    border-radius: 5px;
-    align-items: center;
-    color: white;
-    text-align: center;
-}
-
 .title{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
     border-bottom: 1px solid #caf0f8;
@@ -29,15 +18,32 @@
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    margin-top: 15px;
-}
-
-.info{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    font-size: 20px;
+    padding: 20px;
+    width: 500px;
+    border: 2px solid #227c9d;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
 }
 
 span{
     font-weight: bold;
 }
+
+.learnMore{
+    background-color: #227c9d;
+    border: 2px solid #227c9d;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.learnMore:hover{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
