@@ -1,0 +1,43 @@
+.cityDetail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #caf0f8;
+    height: 100vh;
+}
+
+.card{
+    width: 500px;
+    height: 400px;
+    background-color: #227c9d;
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border-bottom: 1px solid #caf0f8;
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 15px;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+span{
+    font-weight: bold;
+}
