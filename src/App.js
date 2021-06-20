@@ -6,10 +6,12 @@ import CityDetail from "./pages/CityDetail";
 function App() {
   return (
     <Router>
-      <Switch>
-        <Route exact path="/" component={Home} />
-        <Route path="/:city" component={CityDetail} />
-      </Switch>
+      <div className="App">
+        <Switch>
+          <Route exact path="/" component={Home} />
+          <Route path="/:city" component={CityDetail} />
+        </Switch>
+      </div>
     </Router>
   );
 }

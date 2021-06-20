@@ -7,7 +7,8 @@ function SvgMap(props) {
       xmlns="http://www.w3.org/2000/svg"
       x={0}
       y={0}
-      viewBox="0 0 900 600"
+      viewBox="14.75 111.85 870.5 472"
+      width="80%"
       xmlSpace="preserve"
       onClick={props.onClick}
       onMouseOver={props.onMouseOver}
@@ -676,18 +677,21 @@ function SvgMap(props) {
       <text
         transform="translate(519.84 196.214)"
         className="prefix__st82 prefix__st83"
+        id="Ordu"
       >
         {"Ordu"}
       </text>
       <text
         transform="translate(454.886 177.58)"
         className="prefix__st82 prefix__st83"
+        id="Samsun"
       >
         {"Samsun"}
       </text>
       <text
         transform="translate(509.405 414.423)"
         className="prefix__st82 prefix__st83"
+        id="Gaziantep"
       >
         {"Gaziantep"}
       </text>
@@ -716,84 +720,98 @@ function SvgMap(props) {
       <text
         transform="translate(475.323 227.801)"
         className="prefix__st82 prefix__st83"
+        id="Tokat"
       >
         {"Tokat"}
       </text>
       <text
         transform="translate(562.598 193.188)"
         className="prefix__st82 prefix__st83"
+        id="Giresun"
       >
         {"Giresun"}
       </text>
       <text
         transform="translate(601.304 256.043)"
         className="prefix__st82 prefix__st83"
+        id="Erzincan"
       >
         {"Erzincan"}
       </text>
       <text
         transform="translate(675.1 286.781)"
         className="prefix__st82 prefix__st83"
+        id="Bingöl"
       >
         {"Bing\xF6l"}
       </text>
       <text
         transform="translate(475.323 456.502)"
         className="prefix__st82 prefix__st84"
+        id="Hatay"
       >
         {"Hatay"}
       </text>
       <text
         transform="translate(436.542 387.329)"
         className="prefix__st82 prefix__st83"
+        id="Adana"
       >
         {"Adana"}
       </text>
       <text
         transform="translate(396.295 221.43)"
         className="prefix__st82 prefix__st83"
+        id="Çorum"
       >
         {"\xC7orum"}
       </text>
       <text
         transform="rotate(-63.73 402.173 -156.2)"
         className="prefix__st82 prefix__st84"
+        id="Kırıkkale"
       >
         {"K\u0131r\u0131kkale"}
       </text>
       <text
         transform="translate(401.443 367.368)"
         className="prefix__st82 prefix__st83"
+        id="Niğde"
       >
         {"Ni\u011Fde"}
       </text>
       <text
         transform="translate(359.267 339.39)"
         className="prefix__st82 prefix__st83"
+        id="Aksaray"
       >
         {"Aksaray"}
       </text>
       <text
         transform="translate(371.125 287.259)"
         className="prefix__st82 prefix__st83"
+        id="Kırşehir"
       >
         {"K\u0131r\u015Fehir"}
       </text>
       <text
         transform="translate(415.589 265.334)"
         className="prefix__st82 prefix__st83"
+        id="Yozgat"
       >
         {"Yozgat"}
       </text>
       <text
         transform="translate(437.828 203.7)"
         className="prefix__st82 prefix__st83"
+        id="Amasya"
       >
         {"Amasya"}
       </text>
       <text
         transform="translate(720.587 286.94)"
         className="prefix__st82 prefix__st83"
+        id="Muş"
       >
         {"Mu\u015F"}
       </text>
@@ -801,36 +819,42 @@ function SvgMap(props) {
         transform="rotate(-83.74 558.168 -224.608)"
         className="prefix__st82"
         fontSize={10}
+        id="Batman"
       >
         {"Batman"}
       </text>
       <text
         transform="translate(769.203 203.7)"
         className="prefix__st82 prefix__st83"
+        id="Kars"
       >
         {"Kars"}
       </text>
       <text
         transform="translate(817.02 225.253)"
         className="prefix__st82 prefix__st83"
+        id="Iğdır"
       >
         {"I\u011Fd\u0131r"}
       </text>
       <text
         transform="translate(250.136 191.117)"
         className="prefix__st82 prefix__st83"
+        id="Düzce"
       >
         {"D\xFCzce"}
       </text>
       <text
         transform="translate(241.65 157.85)"
         className="prefix__st82 prefix__st84"
+        id="Zonguldak"
       >
         {"Zonguldak"}
       </text>
       <text
         transform="translate(303.638 183.844)"
         className="prefix__st82 prefix__st84"
+        id="Karabük"
       >
         {"Karab\xFCk"}
       </text>
@@ -851,12 +875,14 @@ function SvgMap(props) {
       <text
         transform="translate(345.922 208.955)"
         className="prefix__st82 prefix__st83"
+        id="Çankırı"
       >
         {"\xC7ank\u0131r\u0131"}
       </text>
       <text
         transform="translate(269.2 214.8)"
         className="prefix__st82 prefix__st83"
+        id="Bolu"
       >
         {"Bolu"}
       </text>
@@ -870,12 +896,14 @@ function SvgMap(props) {
       <text
         transform="translate(229.77 265.387)"
         className="prefix__st82 prefix__st83"
+        id="Eskişehir"
       >
         {"Eski\u015Fehir"}
       </text>
       <text
         transform="translate(303.956 361.953)"
         className="prefix__st82 prefix__st83"
+        id="Konya"
       >
         {"Konya"}
       </text>
@@ -903,102 +931,119 @@ function SvgMap(props) {
       <text
         transform="translate(335.41 410.422)"
         className="prefix__st82 prefix__st83"
+        id="Karaman"
       >
         {"Karaman"}
       </text>
       <text
         transform="translate(226.873 418.704)"
         className="prefix__st82 prefix__st83"
+        id="Antalya"
       >
         {"Antalya"}
       </text>
       <text
         transform="translate(213.972 329.039)"
         className="prefix__st82 prefix__st83"
+        id="Afyonkarahisar"
       >
         {"Afyon"}
       </text>
       <text
         transform="translate(191.358 394.602)"
         className="prefix__st82 prefix__st83"
+        id="Burdur"
       >
         {"Burdur"}
       </text>
       <text
         transform="translate(226.873 366.147)"
         className="prefix__st82 prefix__st83"
+        id="Isparta"
       >
         {"Isparta"}
       </text>
       <text
         transform="translate(95.027 370.553)"
         className="prefix__st82 prefix__st83"
+        id="Aydın"
       >
         {"Ayd\u0131n"}
       </text>
       <text
         transform="translate(101.523 310.777)"
         className="prefix__st82 prefix__st83"
+        id="Manisa"
       >
         {"Manisa"}
       </text>
       <text
         transform="translate(639.491 343)"
         className="prefix__st82 prefix__st83"
+        id="Diyarbakır"
       >
         {"Diyarbak\u0131r"}
       </text>
       <text
         transform="rotate(-26.9 1070.64 -987.525)"
         className="prefix__st82 prefix__st83"
+        id="Adıyaman"
       >
         {"Ad\u0131yaman"}
       </text>
       <text
         transform="translate(496.418 361.157)"
         className="prefix__st82 prefix__st83"
+        id="Kahramanmaraş"
       >
         {"K. Mara\u015F"}
       </text>
       <text
         transform="translate(450.384 327.606)"
         className="prefix__st82 prefix__st83"
+        id="Kayseri"
       >
         {"Kayseri"}
       </text>
       <text
         transform="translate(615.506 317.413)"
         className="prefix__st82 prefix__st83"
+        id="Elazığ"
       >
         {"Elaz\u0131\u011F"}
       </text>
       <text
         transform="translate(364.237 437.815)"
         className="prefix__st82 prefix__st83"
+        id="Mersin"
       >
         {"Mersin"}
       </text>
       <text
         transform="translate(411.971 153.16)"
         className="prefix__st82 prefix__st83"
+        id="Sinop"
       >
         {"Sinop"}
       </text>
       <text
         transform="translate(714.422 159.743)"
         className="prefix__st82 prefix__st83"
+        id="Artvin"
       >
         {"Artvin"}
       </text>
       <text
         transform="translate(669.56 177.58)"
         className="prefix__st82 prefix__st83"
+        id="Rize"
       >
         {"Rize"}
       </text>
       <text
         transform="translate(616.908 189.153)"
         className="prefix__st82 prefix__st83"
+        id="Trabzon"
       >
         {"Trabzon"}
       </text>
@@ -1006,151 +1051,175 @@ function SvgMap(props) {
         transform="translate(303.956 249.885)"
         className="prefix__st82"
         fontSize={12}
+        id="Ankara"
       >
         {"Ankara"}
       </text>
       <text
         transform="translate(593.204 401.397)"
         className="prefix__st82 prefix__st83"
+        id="Şanlıurfa"
       >
         {"\u015Eanl\u0131urfa"}
       </text>
       <text
         transform="translate(639.761 222.28)"
         className="prefix__st82 prefix__st83"
+        id="Bayburt"
       >
         {"Bayburt"}
       </text>
       <text
         transform="translate(695.026 238.312)"
         className="prefix__st82 prefix__st83"
+        id="Erzurum"
       >
         {"Erzurum"}
       </text>
       <text
         transform="translate(685.31 384.356)"
         className="prefix__st82 prefix__st83"
+        id="Mardin"
       >
         {"Mardin"}
       </text>
       <text
         transform="translate(759.299 373.792)"
         className="prefix__st82 prefix__st83"
+        id="Şırnak"
       >
         {"\u015E\u0131rnak"}
       </text>
       <text
         transform="translate(748.85 349.16)"
         className="prefix__st82 prefix__st83"
+        id="Siirt"
       >
         {"Siirt"}
       </text>
       <text
         transform="translate(826.01 363.864)"
         className="prefix__st82 prefix__st83"
+        id="Hakkari"
       >
         {"Hakkari"}
       </text>
       <text
         transform="translate(807.212 312.21)"
         className="prefix__st82 prefix__st83"
+        id="Van"
       >
         {"Van"}
       </text>
       <text
         transform="translate(777.723 136.4)"
         className="prefix__st82 prefix__st84"
+        id="Ardahan"
       >
         {"Ardahan"}
       </text>
       <text
         transform="translate(517 445.1)"
         className="prefix__st82 prefix__st83"
+        id="Kilis"
       >
         {"Kilis"}
       </text>
       <text
         transform="translate(288.8 139.2)"
         className="prefix__st82 prefix__st83"
+        id="Bartın"
       >
         {"Bart\u0131n"}
       </text>
       <text
-        id="Tekirdağ"
         transform="translate(75.89 174.076)"
         className="prefix__st82 prefix__st83"
+        id="Tekirdağ"
       >
         {"Tekirda\u011F"}
       </text>
       <text
         transform="translate(75.89 339.815)"
         className="prefix__st82 prefix__st83"
+        id="İzmir"
       >
         {"\u0130zmir"}
       </text>
       <text
         transform="translate(346.557 165.53)"
         className="prefix__st82 prefix__st83"
+        id="Kastamonu"
       >
         {"Kastamonu"}
       </text>
       <text
         transform="translate(125.821 416.527)"
         className="prefix__st82 prefix__st83"
+        id="Muğla"
       >
         {"Mu\u011Fla"}
       </text>
       <text
         transform="translate(163.206 281.738)"
         className="prefix__st82 prefix__st83"
+        id="Kütahya"
       >
         {"K\xFCtahya"}
       </text>
       <text
         transform="translate(396.295 317.412)"
         className="prefix__st82 prefix__st83"
+        id="Nevşehir"
       >
         {"Nev\u015Fehir"}
       </text>
       <text
         transform="translate(514.653 265.122)"
         className="prefix__st82 prefix__st83"
+        id="Sivas"
       >
         {"Sivas"}
       </text>
       <text
         transform="translate(606.8 287.259)"
         className="prefix__st82 prefix__st83"
+        id="Tunceli"
       >
         {"Tunceli"}
       </text>
       <text
         transform="translate(556.945 336.736)"
         className="prefix__st82 prefix__st83"
+        id="Malatya"
       >
         {"Malatya"}
       </text>
       <text
         transform="translate(777.723 245.214)"
         className="prefix__st82 prefix__st83"
+        id="Ağrı"
       >
         {"A\u011Fr\u0131"}
       </text>
       <text
         transform="translate(743.044 317.413)"
         className="prefix__st82 prefix__st83"
+        id="Bitlis"
       >
         {"Bitlis"}
       </text>
       <text
         transform="translate(596.601 211.45)"
         className="prefix__st82 prefix__st87"
+        id="Gümüşhane"
       >
         {"G\xFCm\xFC\u015Fhane"}
       </text>
       <text
         transform="translate(470.147 404.534)"
         className="prefix__st82 prefix__st84"
+        id="Osmaniye"
       >
         {"Osmaniye"}
       </text>
@@ -1164,12 +1233,14 @@ function SvgMap(props) {
       <text
         transform="translate(147.242 388.338)"
         className="prefix__st82 prefix__st83"
+        id="Denizli"
       >
         {"Denizli"}
       </text>
       <text
         transform="translate(162.374 330.579)"
         className="prefix__st82 prefix__st83"
+        id="Uşak"
       >
         {"U\u015Fak"}
       </text>

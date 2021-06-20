@@ -1,6 +1,6 @@
 .Home {
     text-align: center;
-    background-color: #caf0f8;
+    overflow: hidden;
   }
   
   .header {
@@ -9,4 +9,5 @@
     align-items: center;
     justify-content: center;
     font-size: calc(10px + 2vmin);
+    margin-bottom: 20px;
   }

@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   background-color: #caf0f8;
-  height: 100vh;
+  overflow: hidden;
 }
 
 
