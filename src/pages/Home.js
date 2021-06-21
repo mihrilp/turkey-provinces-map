@@ -22,6 +22,7 @@ function Home() {
             area: city.area,
             plateCode: city.id,
             url: `https://tr.wikipedia.org/wiki/${city.name}`,
+            info: city.info,
           },
         });
       }

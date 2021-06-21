@@ -4,12 +4,16 @@ import { useLocation } from "react-router-dom";
 
 const CityDetail = () => {
   const { state } = useLocation();
+
   return (
     <div className="cityDetail">
-      <div className="title">
-        <p>{state.cityName}</p>
-      </div>
       <div className="content">
+        <div className="title">
+          <p>{state.cityName}</p>
+        </div>
+        <p>{state.info}</p>
+      </div>
+      <div className="info" style={{ backgroundColor: state.bgColor }}>
         <p>
           <span>Bölge:</span> {state.region} Bölgesi
         </p>

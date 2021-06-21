@@ -6,7 +6,8 @@
       "longitude": "35.3213",
       "population": 2183167,
       "region": "Akdeniz",
-      "area":13844
+      "area":13844,
+      "info": "Adana, Türkiye'nin bir ili ve en kalabalık altıncı şehridir. 2019 yılı verilerine göre 2.258.718 nüfusa sahiptir. Türkiye'deki altıncı büyük metropolitan alan olup ülkenin önde gelen bir tarım, ticaret ve kültür merkezidir. Türkiye'deki maden zengini 4. bölge olan Adana; krom, demir, manganez, kurşun ve çinko yatakları açısından önem taşımaktadır. Adana'nın merkezi; Mersin, Adana, Osmaniye ve Hatay illerini kapsayan coğrafi, ekonomik ve kültürel bir bölge olan Çukurova'nın merkezinde bulunur. Yaklaşık 6,33 milyon insana ev sahipliği yapan bölgenin büyük bir bölümü, tarıma oldukça elverişli, geniş ve düz bir arazidir. "
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
       "longitude": "38.2786",
       "population": 602774,
       "region": "Güneydoğu Anadolu",
-      "area": 7337
+      "area": 7337,
+      "info": "Adıyaman, Türkiye'nin Güneydoğu Anadolu Bölgesinde bulunan bir ilidir. İdari merkezi Adıyaman şehridir. 2020 yılında TÜİK verilerine göre merkez ilçeyle beraber 9 İlçe, 23 belediye, bu belediyelerde 173 mahalle ve ayrıca 453 köyü vardır. "
     },
     {
       "id": 3,
@@ -24,7 +26,8 @@
       "longitude": "30.5567",
       "population": 709015,
       "region": "Ege",
-      "area": 1025
+      "area": 1025,
+      "info": "Afyonkarahisar, Ege Bölgesi ve İç Batı Anadolu Bölümünde yer alan bir ildir. 2020 yılı verilerine göre ilde; Afyonkarahisar merkez ilçesi ile beraber 18 ilçe, 60 belediye ve 422 köy vardır."
     },
     {
       "id": 4,
@@ -33,7 +36,8 @@
       "longitude": "43.0503",
       "population": 547210,
       "region": "Doğu Anadolu",
-      "area": 14927
+      "area": 14927,
+      "info": "Ağrı (eski ismi: Karaköse), Türkiye'nin Doğu Anadolu Bölgesi'nde bulunan şehir ve Ağrı ilinin merkez ilçesi. Ayrıca tarihte birden fazla isim değişikliği yaşamıştır.Karakilise, Ararat, Karaköse ve son olarak Ağrı Dağı'ndan esinlenilerek Ağrı ismi verilmiştir. Bu şehrin rakımı 1.632 m'dir. Ağrı Ovası'nın kuzeyinde kurulmuştur. Çok soğuk bir iklimi olup ormanlık alanı azdır. Halkın büyük çoğunluğu tarım ve hayvancılıkla uğraşmaktadır. 15 Nisan \"İşgalden Kurtuluş Günü\" olarak kutlanır."
     },
     {
       "id": 5,
@@ -42,16 +46,18 @@
       "longitude": "35.8353",
       "population": 322167,
       "region": "Karadeniz",
-      "area": 1729 
+      "area": 1729 ,
+      "info": "Amasya, Türkiye'nin Karadeniz Bölgesi'nde bulunan bir ildir. Merkez ilçesi Amasya'dır. Bölümü Orta Karadeniz'dir. 2018 yılında TÜİK verilerine göre merkez ilçeyle beraber 7 İlçe, 8 belediye, bu belediyelerde 107 mahalle ve ayrıca 372 köyü vardır. Amasya'nın bilinen ilk adı \"Amaseia\"'dır. Bu isim dünyanın ilk coğrafyacısı olarak bilenen Strabon tarafından verilmiştir. \"Amaseia\" amozonlardaki yaşayan halkın kraliçelerine verdikleri isimdir. "
     },
     {
       "id": 6,
       "name": "Ankara",
       "latitude": "39.9208",
       "longitude": "32.8541",
-      "population": 5270575,
+      "population": 5663322,
       "region": "İç Anadolu",
-      "area": 25632
+      "area": 25632,
+      "info": "Ankara, Türkiye'nin başkenti ve en kalabalık ikinci ilidir. Nüfuslarına göre şehirler listesinde belediye sınırları göz önüne alınarak yapılan sıralamaya göre dünyada ise elli yedinci sırada yer almaktadır. Coğrafi olarak Türkiye'nin merkezine yakın bir konumda bulunur ve Batı Karadeniz Bölgesi'nde kalan kuzey kesimleri hariç, büyük bölümü İç Anadolu Bölgesi'nde yer alır. Yüz ölçümü olarak ülkenin üçüncü büyük ilidir. Bolu, Çankırı, Kırıkkale, Kırşehir, Aksaray, Konya ve Eskişehir illeri ile çevrilidir. "
     },
     {
       "id": 7,
@@ -60,7 +66,8 @@
       "longitude": "30.7056",
       "population": 2288456,
       "region": "Akdeniz",
-      "area": 20909
+      "area": 20909,
+      "info": "Antalya, Türkiye'nin bir ili ve en kalabalık beşinci şehridir. 2020 sonu itibarıyla il nüfusu 2.548.308'dır.[3] Türkiye'de \"turizmin başkenti\" olarak görülmektedir. Tamamı Akdeniz Bölgesi'nin batısında yer alır ve Antalya Körfezi'yle Batı Torosların arasında kurulmuştur. Yüz ölçümü bakımından Türkiye'nin beşinci büyük ilidir. Güneyinde Akdeniz, batısında Muğla, kuzeyinde Burdur ve Isparta, kuzeydoğusunda Konya, doğusunda ise Karaman ve Mersin illeri vardır. Antalya şehri, 1980 yılından sonra uygun iklim koşulları ve turizm etkinlikleri nedeniyle hızla gelişmiş ve buna paralel olarak il de günümüzde Türkiye'nin en kalabalık beşinci ili olmuştur. Antalya'da ekonomik hayat büyük oranda ticaret, tarım ve turizme dayalıdır. "
     },
     {
       "id": 8,
@@ -69,7 +76,8 @@
       "longitude": "41.8183",
       "population": 168370,
       "region": "Karadeniz",
-      "area": 1141
+      "area": 1141,
+      "info": "Artvin, Orta Çağ'da Gürcistan'ın bölgelerinden biri olan Klarceti'deki yerleşmelerden biriydi. Önemli yolların geçtiği bir kavşakta yer alıyordu. Bir yandan Erzurum, Bayburt, Ardahan ve Ardanuç'a, diğer yandan Batum ve Hopa'ya açılıyordu. Şehir ayrıca Çoruh Havzası'nda Artvin ile Batum arasındaki su yoluyla taşımacılığın iskelelerinden biriydi. "
     },
     {
       "id": 9,
@@ -78,7 +86,8 @@
       "longitude": "27.8416",
       "population": 1053506,
       "region": "Ege",
-      "area": 8117
+      "area": 8117,
+      "info": "Aydın, Türkiye'nin bir ili ve en kalabalık yirminci şehridir. Ege Bölgesi'nde yer alan, turizm ve tarım açısından en gelişmiş illerdendir. Kuzeyinde İzmir, kuzeydoğusunda Manisa, doğusunda Denizli, güneyinde Muğla illeri, batısında Ege Denizi bulunmaktadır. 2019 itibarıyla 1.110.972 kişilik nüfusuyla Ege Bölgesi'nin üçüncü büyük ilidir. On yedi ilçesi vardır. "
     },
     {
       "id": 10,
@@ -87,7 +96,8 @@
       "longitude": "27.8826",
       "population": 1186688,
       "region": "Ege",
-      "area": 14272
+      "area": 14272,
+      "info": "Balıkesir, Türkiye'nin bir ili ve en kalabalık on yedinci şehri. Marmara Bölgesi'nin Güney Marmara Bölümü'nde, topraklarının bir kısmı ise Ege Bölgesi'nde yer alan ilin hem Marmara hem de Ege Denizi'ne kıyısı bulunur. Türkiye genelinde ise iki deniz ile komşu olan sadece 6 il vardır.[4] İl, Kuzeybatı Anadolu'da bulunmaktadır. Doğusunda Bursa ve Kütahya illeri, güneyinde Manisa ve İzmir illeri ve batısında Çanakkale ili vardır.[5] Ayvalık ilçesinden de Yunanistan'ın Midilli Adası'na komşudur."
     },
     {
       "id": 11,
@@ -96,7 +106,8 @@
       "longitude": "30.0665",
       "population": 212361,
       "region": "Marmara",
-      "area": 4307
+      "area": 4307,
+      "info": "Bilecik, Bilecik ilinin merkezi olan ilçedir. Türkiye'nin Marmara Bölgesi'nin Güney Marmara Bölümü'nde kalmaktadır. "
     },
     {
       "id": 12,

@@ -7,6 +7,13 @@
     height: 100vh;
 }
 
+.content{
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    width: 70%;
+}
+
 .title{
     font-size: 30px;
     font-weight: bold;
@@ -14,13 +21,10 @@
     border-bottom: 1px solid #caf0f8;
 }
 
-.content{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
+.info{
     font-size: 20px;
     padding: 20px;
-    width: 500px;
+    width: 400px;
     border: 2px solid #227c9d;
     border-radius: 5px;
     align-items: center;
