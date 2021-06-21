@@ -6,6 +6,10 @@
 
 ### ✨ [Demo](https://turkeyprovincesmap.vercel.app/)
 
+![React App — Firefox Developer Edition 6_21_2021 1_29_29 PM (2)](https://user-images.githubusercontent.com/58886855/122751024-ec393980-d297-11eb-8557-35dbc7e2183d.png)
+
+![React App — Firefox Developer Edition 6_21_2021 1_29_37 PM (2)](https://user-images.githubusercontent.com/58886855/122751098-ff4c0980-d297-11eb-8ca4-e174a9e49fd7.png)
+
 ## Install
 
 ```sh
